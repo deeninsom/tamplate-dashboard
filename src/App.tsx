@@ -3,7 +3,7 @@ import Navigation from "./component/Navigaton"
 const App = () => {
   return (
     <>
-      <Navigation/>
+      <Navigation> halo</Navigation>
     </>
   )
 }
